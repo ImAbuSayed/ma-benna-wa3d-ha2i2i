@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نور في الليل ينادي الروح
+> قلبي الحزين بالحب مجروح
+> بين السماء والأرض أسرار
+> تلمع عيوني مثل الأنوار
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
