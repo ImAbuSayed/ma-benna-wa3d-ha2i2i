@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-benna-wa3d-ha2i2i/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Apply for Music License: Ma Benna Wa3d Ha2i2i](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Ma Benna Wa3d Ha2i2i](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
